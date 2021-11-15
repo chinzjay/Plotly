@@ -21,7 +21,7 @@ Following are the updates made to the completed dashboard.
   |:--:|
   |Fig 3. Gauge chart displaying the washing frequency of the belly button|
 
-- The dashboard hass been customized to make the webpage more appealing.
+- The dashboard has been customized to make the webpage more appealing.
 
 ## Summary
 Using JavaScript, Plotly, and D3.js, the dashboard was updated to display the demographics panel and the various charts to display the bacterial species that lives in the individual's belly button when the ID is selected from the dropdown menu. The following customizations can be made to make the dashboard more dynamic and appealing.
